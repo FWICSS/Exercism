@@ -9,6 +9,15 @@
       <excludeFolder url="file://$MODULE_DIR$/leap/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/leap/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/leap/build" />
+      <excludeFolder url="file://$MODULE_DIR$/difference-of-squares/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/difference-of-squares/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/difference-of-squares/build" />
+      <excludeFolder url="file://$MODULE_DIR$/sum-of-multiples/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/sum-of-multiples/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/sum-of-multiples/build" />
+      <excludeFolder url="file://$MODULE_DIR$/word-count/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/word-count/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/word-count/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
